@@ -1,6 +1,6 @@
 Tid: 10:06 
-###### Status: #reflektioner
-###### Tags: [[Idea]] [[Idé]]
+###### Status: #Idé #Idea
+###### Tags: [[Awareness]] [[Identity]]
 
 # Tankar om Identitet
 Alla är upptagna med att vara någon.  
